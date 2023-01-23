@@ -5,6 +5,6 @@ The library system allows users to search for books, check their availability, a
 The library data is recorded in library.txt however at this stage the application only supports read-only. 
 
 ## Project Details
-View the [Project Outline] (https://github.com/lukasjelly/UniversityLibrarySystem/blob/ec2c09a55d378a242bfd23c4b81cfc108d8335c7/Project%20Outline.pdf "Project Outline") for general project specifications
+View the [Project Outline](https://github.com/lukasjelly/UniversityLibrarySystem/blob/ec2c09a55d378a242bfd23c4b81cfc108d8335c7/Project%20Outline.pdf "Project Outline") for general project specifications
 
-View the [Workflow Diagram] (https://github.com/lukasjelly/UniversityLibrarySystem/blob/ec2c09a55d378a242bfd23c4b81cfc108d8335c7/Workflow%20Diagram.jpg "Workflow Diagram) to see the control flow of the application. 
+View the [Workflow Diagram](https://github.com/lukasjelly/UniversityLibrarySystem/blob/ec2c09a55d378a242bfd23c4b81cfc108d8335c7/Workflow%20Diagram.jpg "Workflow Diagram) to see the control flow of the application. 
